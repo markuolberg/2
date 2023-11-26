@@ -1,4 +1,15 @@
-<start>1</start>
-<main></main>
-<end></end>
-#13
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>CSS стиль встроенный — schoolsw3.com</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ </head>
+ <body>
+ 
+  <h1>HTML5 CSS стиль встроенный</h1>
+
+  <h2 style="color:blue;">Это заголовок синий</h2>
+
+ </body>
+</html>
